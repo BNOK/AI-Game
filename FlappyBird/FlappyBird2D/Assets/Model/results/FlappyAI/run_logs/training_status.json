@@ -1,0 +1,23 @@
+{
+    "FlappyBird": {
+        "checkpoints": [
+            {
+                "steps": 22633,
+                "file_path": "results\\FlappyAI\\FlappyBird\\FlappyBird-22633.nn",
+                "reward": 4.481174699094401,
+                "creation_time": 1604446523.5379417
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 22633,
+            "file_path": "results\\FlappyAI\\FlappyBird.nn",
+            "reward": 4.481174699094401,
+            "creation_time": 1604446523.5379417
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.0",
+        "tensorflow_version": "2.3.1"
+    }
+}
